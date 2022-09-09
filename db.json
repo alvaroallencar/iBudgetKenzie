@@ -17,58 +17,24 @@
       "position": "Frontend developer",
       "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
       "id": 2
-    },
-    {
-      "email": "alvrinho2@kenzie.com",
-      "password": "$2a$10$6X49f9Pz9awZuwiOEmrFeuwP8unDAMWKCTN0tJfh3M5CIgvYYPHUS",
-      "name": "Álvaro Alencar",
-      "username": "alvrinho",
-      "position": "Front-end developer",
-      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
-      "id": 3
-    },
-    {
-      "email": "alvrinho3@kenzie.com",
-      "password": "$2a$10$HKazM1cLUT24aOkYTWsT/.DZU8RRkKxim2GLewGvYO8P4M3mGmhRe",
-      "name": "Álvaro Alencar",
-      "username": "alvrinho",
-      "position": "Front-end developer",
-      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
-      "id": 4
-    },
-    {
-      "email": "alvrinho4@kenzie.com",
-      "password": "$2a$10$Bh4luGpv4.lOldbwa8j7lO9GdE5q2XWqa3OsJB6dNbeZXJCB10y.m",
-      "name": "Álvaro Alencar",
-      "username": "alvrinho",
-      "position": "Front-end developer",
-      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
-      "id": 5
-    },
-    {
-      "email": "alvrinho5@kenzie.com",
-      "password": "$2a$10$RTyKa2hIu1YZGAwg6YUiQeJ.iX31hZ5El.Hm9wa3ys3hMe2p7xW6y",
-      "name": "Álvaro Alencar",
-      "username": "alvrinho",
-      "position": "Front-end developer",
-      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
-      "id": 6
     }
   ],
   "budgets": [
     {
-      "projectName": "landing page para petshop",
-      "projectTime": "2",
-      "fixedCost": "900",
-      "variableCost": "300",
+      "projectName": "Site para petshop",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
       "userId": 1,
       "id": 1
     },
     {
-      "projectName": "Landing page para petshop",
-      "projectTime": "2",
-      "fixedCost": "1000",
-      "variableCost": "300",
+      "projectName": "Site para barbearia",
+      "projectTime": 7,
+      "budget": 1000,
+      "fixedCost": 1000,
+      "variableCost": 300,
       "userId": 2,
       "id": 2
     }
