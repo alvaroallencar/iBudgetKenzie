@@ -10,13 +10,58 @@
       "id": 1
     },
     {
-      "email": "alvrinho1@kenzie.com",
+      "email": "alvrinho@kenzie.com",
       "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
       "name": "Alvrinho",
       "username": "alvrinho",
       "position": "Frontend developer",
       "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035WCR5001-b76f4c1838fd-512",
       "id": 2
+    },
+    {
+      "email": "victor@kenzie.com",
+      "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
+      "name": "Victor",
+      "username": "victor",
+      "position": "Frontend developer",
+      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035HRV53TM-b3c9e9006328-512",
+      "id": 3
+    },
+    {
+      "email": "gabriella@kenzie.com",
+      "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
+      "name": "Gabriella",
+      "username": "gabriella",
+      "position": "Frontend developer",
+      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U030BT94S5N-4837ffe56281-512",
+      "id": 4
+    },
+    {
+      "email": "gabriel@kenzie.com",
+      "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
+      "name": "Gabriel",
+      "username": "gabriel",
+      "position": "Frontend developer",
+      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U037SGH75MZ-e329c675a141-512",
+      "id": 5
+    },
+    {
+      "email": "alexandre@kenzie.com",
+      "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
+      "name": "Alexandre",
+      "username": "alexandre",
+      "position": "Frontend developer",
+      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035L5FUHV2-7c0b81dbc568-512",
+      "id": 6
+    },
+    {
+      "email": "rafael@kenzie.com",
+      "password": "$2a$10$hAFB1p6qVibfXHVAYf0ew.CnLied6gF7/SJBuLYmARHWGpOBQJxpq",
+      "name": "Rafael",
+      "username": "rafael",
+      "position": "Frontend developer",
+      "imageUrl": "https://ca.slack-edge.com/TQZR39SET-U035B6ZE5KQ-1be8b59ac3e9-512",
+      "id": 7
     }
   ],
   "budgets": [
@@ -30,13 +75,58 @@
       "id": 1
     },
     {
-      "projectName": "Site para barbearia",
+      "projectName": "Site para petshop",
       "projectTime": 7,
       "budget": 1000,
       "fixedCost": 1000,
       "variableCost": 300,
       "userId": 2,
       "id": 2
+    },
+    {
+      "projectName": "Site para farmácia",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "projectName": "Site para barbearia",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "projectName": "Site para restaurante",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
+      "userId": 5,
+      "id": 5
+    },
+    {
+      "projectName": "Site para hotel",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
+      "userId": 6,
+      "id": 6
+    },
+    {
+      "projectName": "Site para perfumaria",
+      "projectTime": 9,
+      "budget": 1000,
+      "fixedCost": 900,
+      "variableCost": 300,
+      "userId": 7,
+      "id": 7
     }
   ]
 }
